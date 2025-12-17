@@ -1,0 +1,4 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays \"Chicken Banana\" text centered vertically and horizontally on a white background with clean typography.",
+  "frontend/src/index.css": "Global styles with OKLCH color system and custom body styling for a clean, readable sans-serif font on white background with black text."
+}
